@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  background-color: palegoldenrod;
+  background-color: black;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
   font-family: "Acme", sans-serif;
   font-size: 5rem;
   font-weight: bolder;
-  color: darkgreen;
+  color: white;
 }
 
 .canvas-container {
